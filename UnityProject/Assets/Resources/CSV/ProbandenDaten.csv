@@ -6,3 +6,10 @@
 6;;sad_male;happy_female;happy_male;sad_female
 7;;happy_male;sad_male;happy_female;sad_female
 8;;angry_male;angry_female;happy_female;sad_female;happy_male;scared_female;sad_male;scared_male
+9;;happy_female;angry_male;sad_female;angry_female;happy_male;scared_female;sad_male;sad_female;scared_female;angry_male;sad_male;angry_female;happy_male;happy_female;scared_male
+10;;scared_female;happy_female;happy_male;angry_female;sad_male;sad_female;angry_male;scared_male
+11;;scared_female;happy_male;sad_male;sad_female;angry_male;happy_female;angry_female;scared_male
+12;;sad_male;angry_female;happy_female;happy_male;scared_female;angry_male;sad_female;scared_male
+13;;happy_female;happy_male;cocky_female;confused_female;disgust_male;cocky_male;confused_male;angry_male;angry_female;sad_male;sad_female;disgust_female;surprised_female;scared_female;surprised_male;scared_male
+14;;surprised_female;sad_male;scared_male;angry_female;angry_male;cocky_male;disgust_female;scared_female;happy_female;sad_female;cocky_female;confused_female;disgust_male;confused_male;happy_male;surprised_male
+15;;scared_female;sad_male;happy_male;angry_male;angry_female;sad_female;disgust_male;happy_female;scared_male;disgust_female;cocky_female;confused_male;cocky_male;surprised_female;confused_female;surprised_male
