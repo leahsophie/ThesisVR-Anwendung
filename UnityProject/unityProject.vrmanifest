@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.thesis2.0.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Leah\\Documents\\ThesisVR-Anwendung\\UnityProject\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Thesis2.0 [Testing]"
+        }
+      }
+    }
+  ]
+}
